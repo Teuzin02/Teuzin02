@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor Front-end com experiência em criação interfaces intuitivas e responsivas, tendo especialização em HTML5, CSS3 e JavaScript. Busco sempre estar atuzalizado e aberto a aprender novas tecnologias e práticas para estar evoluindo minhas habilidades.</p>
+<p align="left">Sou um desenvolvedor Front-end com experiência em criação de interfaces intuitivas e responsivas, tendo especialização em HTML5, CSS3 e JavaScript. Busco sempre estar atuzalizado e aberto a aprender novas tecnologias e práticas para estar evoluindo minhas habilidades.</p>
 
 ###
 
